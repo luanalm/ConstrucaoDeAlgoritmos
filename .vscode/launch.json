@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Exercicio_4",
+            "request": "launch",
+            "mainClass": "Exercicio_4",
+            "projectName": "ConstrucaoDeAlgoritmos_e24d63bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exericio_1",
+            "request": "launch",
+            "mainClass": "Exericio_1",
+            "projectName": "ConstrucaoDeAlgoritmos_e24d63bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio_3",
+            "request": "launch",
+            "mainClass": "Exercicio_3",
+            "projectName": "ConstrucaoDeAlgoritmos_e24d63bd"
+        },
+        {
+            "type": "java",
             "name": "Launch Exercicio2",
             "request": "launch",
             "mainClass": "Exercicio2",
